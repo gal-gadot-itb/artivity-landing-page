@@ -36,7 +36,7 @@
 
 body {
     color: #222;
-    background: #f5f5f5;
+    background: #fae135;
     font-family: Lato, sans-serif;
     font-weight: 300;
     line-height: 1.6;
@@ -675,7 +675,7 @@ ul.tag-cloud li {
 /*-----------------------------------------------------------------------------------*/
 
 .navbar-inverse {
-    background-color: #202020;
+    background-color: #5fd5c7;
     border: none;
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -860,7 +860,7 @@ ul.tag-cloud li {
 
 .opaqued {
     padding: 10px 0;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(95, 213, 199, 0.6);
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -o-transition: all .5s ease-in-out;
@@ -870,7 +870,7 @@ ul.tag-cloud li {
 }
 
 .navbar-inverse.opaqued .navbar-nav .dropdown-menu {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(95, 213, 199, 0.6);
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -o-transition: all .5s ease-in-out;
